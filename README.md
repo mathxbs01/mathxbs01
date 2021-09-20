@@ -18,7 +18,7 @@
   <img align="center" alt="Matheus-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Matheus-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Matheus-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  <img align="right" alt="Matheus-Mrrobot" height="150" width="90" src="https://giffiles.alphacoders.com/206/206746.gif">
+  <img align="right" alt="Matheus-Mrrobot" height="150" width="105" src="https://giffiles.alphacoders.com/206/206746.gif">
 </div>
   
  ##
