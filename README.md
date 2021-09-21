@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus!
 
-- 🔭 Hoje sou estagiário de QA
-- 🌱 Estudando automação com Ruby
+- 🎈 Hoje sou estagiário de QA
+- 📌 Estudando automação de testes com Ruby
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
 
 
