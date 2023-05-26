@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Matheus!
 
-- 🎈 Sou estudante de Engenharia da Computação, e hoje sou Analista de Teste/QA Junior
+- 🎈 Sou estudante de Engenharia da Computação, e hoje sou Analista de Teste/QA Pleno
 - 📌 Estudando automação de testes com Ruby & Javascript
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
 
