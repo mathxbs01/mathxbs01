@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus!
 
-- 🎈 Sou estudante de Engenharia da Computação, e hoje sou Analista de Teste/QA Pleno
-- 📌 Estudando automação de testes com Ruby & Javascript
+- 🎈 Engenhario da Computação, e hoje sou Líder Técnico na ModalGR
+- 📌 Atuação com JS, C# .NET EF, Python, Ruby, Automação de testes (Selenium e Cypress)
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
 
 
