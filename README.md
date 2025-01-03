@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus!
 
-- 🎈 Engenhario da Computação, e hoje sou Líder Técnico na ModalGR
-- 📌 Atuação com JS, C# .NET EF, Python, Ruby, Automação de testes (Selenium e Cypress)
+- 🎈 Engenheiro da Computação, e hoje sou Líder Técnico na ModalGR
+- 📌 Atuação com JS, TS, C# .NET EF, Python, Ruby, Automação de testes (Cypress, Selenium e Appium)
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
 
 
