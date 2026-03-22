@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Matheus!
 
 - 🎈 Engenheiro da Computação, e hoje sou QA Senior na Deal
-- 📌 Atuação com JS, TS, C# .NET EF, Python, Ruby, Automação de testes (Cypress, Playwright, Selenium e Appium)
+- 📌 Atuação com JS, TS, C# .NET EF, Python, Ruby, Performance (k6) e Automação de testes (Cypress, Playwright, Selenium e Appium)
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
 
 
