@@ -3,13 +3,6 @@
 - 🎈 Engenheiro da Computação, e hoje sou QA Senior na Deal
 - 📌 Atuação com JS, TS, C# .NET EF, Python, Ruby, Performance (k6) e Automação de testes (Cypress, Playwright, Selenium e Appium)
 - 📫 Contate-me no e-mail: matheus.01bds@outlook.com
-
-
- <div>
-  <a href="https://github.com/mathxbs01">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mathxbs01&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathxbs01&layout=compact&langs_count=7&theme=dark"/>
-</div>
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Matheus-Cypress" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cypressio/cypressio-original.svg">
